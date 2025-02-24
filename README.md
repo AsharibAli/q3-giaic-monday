@@ -1,6 +1,6 @@
 # GIAIC Quarter-3 (Monday 2-5) Session
 
-![Q3 GIAIC Monday2-5](./images/giaic.png)
+<a href="https://www.governorsindh.com/"><img src="https://i.ibb.co/qMrV0Ggj/giaic.png" alt="giaic" border="0"></a>
 
 This repository is maintained for **1500+ students** who access it daily.
 
