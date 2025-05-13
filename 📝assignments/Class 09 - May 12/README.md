@@ -11,12 +11,18 @@ If there are multiple qualified submissions, there will be two winners: one male
 Winning Criteria:
 - You must think about business from day one, including how you'll earn revenue through this application, how you'll market it, how you'll acquire users, and ultimately how you'll transform your product into a startup complete with a name, logo, domain, and website.
 - Must apply Authentication, Database, Payments, in your application.
-- Must apply Python OOP in your application.
+- Must apply Python OOP Principles in your application.
 
-- If you're using Streamlit, you can use the following resources:   
-  - **For Database**: Read the docs [Connecting to Data](https://docs.streamlit.io/develop/concepts/connections/connecting-to-data)
-  - **For Authentication**: Read the docs [Authentication](https://docs.streamlit.io/develop/concepts/connections/authentication)
-  - **For Payments**: Read the docs of following package: [st-paywall](https://github.com/tylerjrichards/st-paywall) for payments in streamlit application.
+- If you're using Streamlit, read the docs [Streamlit](https://docs.streamlit.io/)
+- If you're using chainlit, read the docs [Chainlit](https://docs.chainlit.io/get-started/overview)
+
+- If you're unable to integrate (Authentication, Database, Payments) in your application due to any reason, **you can also simulate these things in your application with just dummy data**, and then later you can implement them.
+
+- I will pick winners by looking at four main things, **each worth 25%**:
+  1. How well your code works and follows good programming practices
+  2. Whether your business idea could actually make money and find customers
+  3. How easy and nice your app is to use
+  4. How creative and useful your solution is for real people
 
 **Submit Assignment Form:** [https://forms.gle/AQdQU7Z6L3eVmt6c6](https://forms.gle/AQdQU7Z6L3eVmt6c6)
 
